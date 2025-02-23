@@ -9,4 +9,4 @@
 
 ## Penggunaan
 
-* Download atau Clone file .jar ini, lalu buka terminal di folder dimana terdapat file tersebut dan ketik ``` java -jar Program PBO.jar ```
+* Download atau Clone file .jar ini, lalu buka terminal di folder dimana terdapat file tersebut dan ketik ``` java -jar "Program PBO.jar" ```
